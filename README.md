@@ -87,7 +87,6 @@ As an alternative you can use the "recommend" predefined convention over configu
 structure. Let's (re)try:
 
 ``` html
-<section feed>
 <article>
   <h1>Microformats are amazing</h1>
   <p>Published by <a href="http://example.com">W. Developer</a>
@@ -99,8 +98,6 @@ structure. Let's (re)try:
     <p>Blah blah blah</p>
   </div>
 </article>
-...
-</section>
 ```
 
 E.g.:
