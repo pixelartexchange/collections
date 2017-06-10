@@ -59,10 +59,64 @@ Parsed to JSON resulting in:
 ```
 
 
+## Shortcuts / Alternatives
+
+### Use hfeed / hitem / hcard
+
+As an alternative you can use  `hfeed` or `feed` (for `o=feed`), `hitem` or `item` (for `o=item`), 
+`hcard` or `item` (for `o=card`) shortcuts. Let's (re)try:
+
+``` html
+<article item>
+  <h1 title>Microformats are amazing</h1>
+  <p>Published by <a card author href="http://example.com">W. Developer</a>
+     on <time published datetime="2013-06-13 12:00:00">13<sup>th</sup> June 2013</time>
+ 
+  <p summary>In which I extoll the virtues of using microformats.</p>
+ 
+  <div content>
+    <p>Blah blah blah</p>
+  </div>
+</article>
+```
+
+
+### Use "predefined" convention over configuration structures
+
+As an alternative you can use the "recommend" predefined convention over configuration
+structure. Let's (re)try:
+
+``` html
+<section feed>
+<article>
+  <h1>Microformats are amazing</h1>
+  <p>Published by <a href="http://example.com">W. Developer</a>
+     on <time datetime="2013-06-13 12:00:00">13<sup>th</sup> June 2013</time>
+ 
+  <p>In which I extoll the virtues of using microformats.</p>
+ 
+  <div>
+    <p>Blah blah blah</p>
+  </div>
+</article>
+...
+</section>
+```
+
+E.g.:
+
+- Use article for your item.
+- Use heading (h1) for your title.
+- The first paragraph (p) for your metadata block with author and published date.
+  - The first time (time) is the published date.
+  - The first anchor link (a) is the author.
+- Optional: The second paragraph (p) is the summary.
+- The first division (div) is the content.
+
 
 ## License
 
-The Feed.TXT format and conventions are dedicated to the public domain.
+The Feed.HTML format and conventions are dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
 
 ## Questions? Comments?
