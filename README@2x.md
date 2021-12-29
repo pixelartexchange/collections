@@ -4,7 +4,10 @@
 
 ## Punks, The Black & White (1-Bit) Edition
 
-![](bwpunks-24x24@2x.png)
+<!-- 240x360 -->
+<img src='bwpunks-24x24.png' widht='480' height='720'>
+
+
 
 
 
