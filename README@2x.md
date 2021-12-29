@@ -4,22 +4,20 @@
 
 ## Punks, The Black & White (1-Bit) Edition
 
-<!-- 240x360 -->
-<img src='bwpunks-24x24.png' widht='480' height='720'>
-
-
+<img src='bwpunks-24x24.png' width='480' height='720'> <!-- 240x360 -->
 
 
 
 ## Punks, The Unofficial Edition
 
-![](unofficialpunks-24x24@2x.png)
+<img src='unofficialpunks-24x24.png' width='480' height='480'> <!-- 240x240 -->
 
 
 
 ## Punks, The Genius Edition
 
-![](geniuspunks-24x24@2x.png)
+<img src='geniuspunks-24x24.png' width='480' height='432'> <!-- 240x216 -->
+
 
 
 
