@@ -5,14 +5,14 @@
 ## Punks, The Black & White (1-Bit) Edition
 
 <!-- 240x360 -->
-<img src='bwpunks-24x24.png' width='480' height='720'>
+<img src='bwpunks-24x24.png' width='480' height='720' style='image-rendering: pixelated;'>
 
 
 
 ## Punks, The Unofficial Edition
 
 <!-- 240x240 -->
-<img src='unofficialpunks-24x24.png' width='480' height='480'>
+<img src='unofficialpunks-24x24.png' width='480' height='480' style='image-rendering: pixelated;'>
 
 
 
