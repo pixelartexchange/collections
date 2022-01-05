@@ -71,3 +71,6 @@ Collar (4)
 - Ethereum Crypto Collar => 1
 
 
+(Source: [**blockydoge.csv**](blockydoge.csv))
+
+
