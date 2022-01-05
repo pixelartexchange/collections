@@ -1,4 +1,4 @@
-# 100 Blocky Dodge (60×60)
+# 100 Blocky Doge (60×60)
 
 
 

@@ -1,0 +1,282 @@
+type, name, count
+Attribute Count, ∑ Total, 1000
+Attribute Count, 8, 1000
+Guild, ∑ Total, 1000
+Guild, House of Wow, 171
+Guild, League of So Scare, 217
+Guild, Legion of Lulz, 229
+Guild, Do Only Good Everyday Senate, 254
+Guild, 420 Syndicate, 129
+Class, ∑ Total, 1000
+Class, royal, 7
+Class, knight, 366
+Class, cleric, 66
+Class, mage, 299
+Class, bard, 109
+Class, rogue, 124
+Class, multi-class, 29
+Hat, ∑ Total, 1000
+Hat, poofy chef hat, 2
+Hat, basic helmet, 103
+Hat, cleric pointed cap, 18
+Hat, purple mage, 64
+Hat, blue mage, 132
+Hat, kettle, 62
+Hat, fortified helmet, 89
+Hat, red mage, 17
+Hat, dark purple cloak, 6
+Hat, teal cloak, 32
+Hat, bomb, 19
+Hat, none, 43
+Hat, green hood, 14
+Hat, brown hood, 23
+Hat, blue cloak, 25
+Hat, green mage, 29
+Hat, dark hood, 39
+Hat, purple hood, 38
+Hat, helmet and buckle, 40
+Hat, orange mage, 16
+Hat, scrolls, 7
+Hat, cleric green gem, 11
+Hat, false mage, 9
+Hat, earguard helmet, 5
+Hat, false bard, 3
+Hat, cleric blue gem, 14
+Hat, faceguard helmet, 8
+Hat, books, 15
+Hat, pink cloak, 7
+Hat, dogecoin cap, 5
+Hat, light pink cloak, 7
+Hat, bird nest, 8
+Hat, cleric blue pointed, 7
+Hat, pointy helmet, 16
+Hat, jester red blue, 2
+Hat, green cloak, 2
+Hat, giant health potion, 5
+Hat, sunflower cap, 1
+Hat, apple, 8
+Hat, purple cloak, 3
+Hat, grey cloak, 13
+Hat, yellow mage, 7
+Hat, music cap, 4
+Hat, rainbow bead cap, 1
+Hat, orange cloak, 8
+Hat, false knight, 2
+Hat, giant magic potion, 4
+Hat, headdress, 3
+Hat, false cleric, 1
+Hat, jester blue green, 2
+Hat, crown, 1
+Equipment, ∑ Total, 1000
+Equipment, cake, 1
+Equipment, lance, 32
+Equipment, great sword, 43
+Equipment, antidote, 8
+Equipment, green seeing stone, 16
+Equipment, staff of ice, 45
+Equipment, staff of poison, 22
+Equipment, torch, 28
+Equipment, bow and arrow, 19
+Equipment, staff of water, 33
+Equipment, lute, 36
+Equipment, wood flute, 8
+Equipment, short sword, 71
+Equipment, staff of fire, 48
+Equipment, spear, 29
+Equipment, gold spear, 16
+Equipment, staff of electricity, 37
+Equipment, gold dust, 22
+Equipment, key collection, 10
+Equipment, fire protection potions, 3
+Equipment, red handle sword, 9
+Equipment, pan flute, 35
+Equipment, staff of earth, 27
+Equipment, battle axe, 37
+Equipment, throwing knives, 5
+Equipment, poison potion, 18
+Equipment, dagger, 53
+Equipment, awakening herbs, 5
+Equipment, staff of devastation, 1
+Equipment, purple seeing stone, 10
+Equipment, hand drum, 22
+Equipment, magic dust, 25
+Equipment, revival herbs, 14
+Equipment, void spear, 10
+Equipment, ice spear, 5
+Equipment, poison enchanted sword, 9
+Equipment, war scythe, 15
+Equipment, agile sword, 9
+Equipment, poison powder, 8
+Equipment, giant scroll, 11
+Equipment, double pointed staff, 6
+Equipment, gold axe, 1
+Equipment, curse protection potions, 4
+Equipment, poison dagger, 29
+Equipment, flute, 1
+Equipment, gold handle sword, 18
+Equipment, healing herbs, 21
+Equipment, staff of malice, 3
+Equipment, ocarina, 5
+Equipment, sword of fortune, 7
+Equipment, staff of power, 2
+Equipment, staff of void, 4
+Equipment, none, 4
+Equipment, ice sword, 5
+Equipment, staff of prosperity, 1
+Equipment, triangle, 4
+Equipment, staff of the black dragon, 1
+Equipment, riding sword, 3
+Equipment, poison protection potions, 4
+Equipment, poison darts, 5
+Equipment, rogue dark sword, 1
+Equipment, blade of champions, 1
+Equipment, red seeing stone, 1
+Equipment, bag of gold, 1
+Equipment, fish, 1
+Equipment, fire sword, 6
+Equipment, smoke bombs, 1
+Equipment, curly staff, 3
+Equipment, mutton, 1
+Equipment, scepter, 1
+Neck, ∑ Total, 1000
+Neck, spiked collar, 36
+Neck, coin, 379
+Neck, amethyst collar, 40
+Neck, amethyst, 14
+Neck, magic potion, 39
+Neck, silver dogecoin, 94
+Neck, gold dogecoin, 38
+Neck, Legion of lulz tabard, 8
+Neck, vial of light, 22
+Neck, bell collar, 28
+Neck, sapphire collar, 32
+Neck, health potion, 52
+Neck, emerald, 11
+Neck, 420 Syndicate tabard, 9
+Neck, emerald collar, 62
+Neck, key, 20
+Neck, So Scare tabard, 10
+Neck, sapphire, 5
+Neck, dexterity potion, 30
+Neck, opal, 5
+Neck, House of wow tabard, 11
+Neck, ruby collar, 34
+Neck, ruby, 5
+Neck, none, 5
+Neck, Do Only Good Everyday tabard, 10
+Neck, master key, 1
+Fur, ∑ Total, 1000
+Fur, light brown, 134
+Fur, teal, 38
+Fur, orange, 242
+Fur, cream, 41
+Fur, black and tan, 107
+Fur, inverted orange, 9
+Fur, sesame, 212
+Fur, purple, 29
+Fur, zombie, 4
+Fur, light pink, 46
+Fur, red, 30
+Fur, flat, 9
+Fur, slime, 15
+Fur, blue, 9
+Fur, grainy, 22
+Fur, pink, 31
+Fur, long, 5
+Fur, blue aura, 1
+Fur, red aura, 3
+Fur, gold, 2
+Fur, green aura, 6
+Fur, stinky, 5
+Eyes, ∑ Total, 1000
+Eyes, dizzy, 28
+Eyes, skeptical, 39
+Eyes, glasses, 30
+Eyes, angry, 33
+Eyes, eyepatch, 41
+Eyes, content, 35
+Eyes, snake, 30
+Eyes, tired, 23
+Eyes, dead, 21
+Eyes, forlorn, 25
+Eyes, confused, 27
+Eyes, cheerful, 17
+Eyes, dazed, 33
+Eyes, glow, 18
+Eyes, beads, 34
+Eyes, sleepy, 17
+Eyes, wide awake, 32
+Eyes, hearts, 13
+Eyes, stark, 53
+Eyes, unamused, 19
+Eyes, cross eyed, 41
+Eyes, rolling, 35
+Eyes, nervous, 36
+Eyes, look left, 24
+Eyes, chill, 11
+Eyes, wink, 9
+Eyes, anxious, 37
+Eyes, drowsy, 20
+Eyes, upset, 36
+Eyes, depressed, 9
+Eyes, crazed, 7
+Eyes, huh, 15
+Eyes, small, 19
+Eyes, monocle, 10
+Eyes, clown, 17
+Eyes, pointy, 8
+Eyes, bloodshot, 12
+Eyes, teary, 19
+Eyes, stars, 7
+Eyes, blush, 7
+Eyes, crazy, 42
+Eyes, worried, 6
+Eyes, cyclops, 1
+Eyes, sheepish, 3
+Eyes, zombie, 1
+Mouth, ∑ Total, 1000
+Mouth, sad teeth, 20
+Mouth, frown, 20
+Mouth, tongue out, 24
+Mouth, happy, 13
+Mouth, pipe, 36
+Mouth, jaw drop, 31
+Mouth, buck, 37
+Mouth, gasp, 21
+Mouth, small, 30
+Mouth, grey mustache, 25
+Mouth, wide grin, 26
+Mouth, eating mutton, 27
+Mouth, teeth frown, 30
+Mouth, flat, 25
+Mouth, eeee, 27
+Mouth, panting, 11
+Mouth, wide flat, 25
+Mouth, crazy smile, 6
+Mouth, mustache, 13
+Mouth, meh, 30
+Mouth, uhhhh, 43
+Mouth, oooo, 27
+Mouth, gold teeth, 31
+Mouth, drool, 13
+Mouth, goatee, 24
+Mouth, curly thin mustache, 15
+Mouth, wide uhhh, 11
+Mouth, troll, 15
+Mouth, large smile, 27
+Mouth, smirk, 18
+Mouth, grimacing, 40
+Mouth, pout, 27
+Mouth, squiggle, 17
+Mouth, surprised, 19
+Mouth, thin surprised, 34
+Mouth, wizard beard, 34
+Mouth, gold overflow, 14
+Mouth, zombie, 2
+Mouth, droop, 39
+Mouth, confident, 14
+Mouth, wide smile, 14
+Mouth, beard, 10
+Mouth, long pipe, 25
+Mouth, diamond, 1
+Mouth, wheat, 9
