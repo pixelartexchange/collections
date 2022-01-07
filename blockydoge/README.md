@@ -37,16 +37,16 @@
 | **None** | 11 (11.00) |
 
 
-### Attributes
+### Accessories
 
-Attribute Counts
+Accessory Counts
 
 |Name|Total (%)|
 |--------|----------:|
-| **2 Attributes** | 74 (74.00) |
-| **3 Attributes** | 23 (23.00) |
-| **4 Attributes** | 2 (2.00) |
-| **5 Attributes** | 1 (1.00) |
+| **2 Accessories** | 74 (74.00) |
+| **3 Accessories** | 23 (23.00) |
+| **4 Accessories** | 2 (2.00) |
+| **5 Accessories** | 1 (1.00) |
 
 Hat (9) · Glasses (5) ·  Mask (3) · Collar (3)
 
