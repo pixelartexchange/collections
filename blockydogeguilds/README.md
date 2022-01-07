@@ -4,14 +4,6 @@
 ## Popularity & Rarity
 
 
-Attribute Counts
-
-|Name|Total (%)|
-|--------|----------:|
-| **8 Attributes** | 1000 (100.00) |
-
-Guild (5) · Class (7) · Hat (51) · Equipment (70) · Neck (26) · Fur (22) · Eyes (45) · Mouth (45)
-
 ### Guild (5) - ∑Total 1000/1000
 
 |Name|Total (%)|
@@ -35,170 +27,6 @@ Guild (5) · Class (7) · Hat (51) · Equipment (70) · Neck (26) · Fur (22) ·
 | **multi-class** | 29 (2.90) |
 | **royal** | 7 (0.70) |
 
-
-### Hat (51) - ∑Total 1000/1000
-
-|Name|Total (%)|
-|--------|----------:|
-| **blue mage** | 132 (13.20) |
-| **basic helmet** | 103 (10.30) |
-| **fortified helmet** | 89 (8.90) |
-| **purple mage** | 64 (6.40) |
-| **kettle** | 62 (6.20) |
-| **none** | 43 (4.30) |
-| **helmet and buckle** | 40 (4.00) |
-| **dark hood** | 39 (3.90) |
-| **purple hood** | 38 (3.80) |
-| **teal cloak** | 32 (3.20) |
-| **green mage** | 29 (2.90) |
-| **blue cloak** | 25 (2.50) |
-| **brown hood** | 23 (2.30) |
-| **bomb** | 19 (1.90) |
-| **cleric pointed cap** | 18 (1.80) |
-| **red mage** | 17 (1.70) |
-| **orange mage** | 16 (1.60) |
-| **pointy helmet** | 16 (1.60) |
-| **books** | 15 (1.50) |
-| **cleric blue gem** | 14 (1.40) |
-| **green hood** | 14 (1.40) |
-| **grey cloak** | 13 (1.30) |
-| **cleric green gem** | 11 (1.10) |
-| **false mage** | 9 (0.90) |
-| **apple** | 8 (0.80) |
-| **bird nest** | 8 (0.80) |
-| **faceguard helmet** | 8 (0.80) |
-| **orange cloak** | 8 (0.80) |
-| **cleric blue pointed** | 7 (0.70) |
-| **light pink cloak** | 7 (0.70) |
-| **pink cloak** | 7 (0.70) |
-| **scrolls** | 7 (0.70) |
-| **yellow mage** | 7 (0.70) |
-| **dark purple cloak** | 6 (0.60) |
-| **dogecoin cap** | 5 (0.50) |
-| **earguard helmet** | 5 (0.50) |
-| **giant health potion** | 5 (0.50) |
-| **giant magic potion** | 4 (0.40) |
-| **music cap** | 4 (0.40) |
-| **false bard** | 3 (0.30) |
-| **headdress** | 3 (0.30) |
-| **purple cloak** | 3 (0.30) |
-| **false knight** | 2 (0.20) |
-| **green cloak** | 2 (0.20) |
-| **jester blue green** | 2 (0.20) |
-| **jester red blue** | 2 (0.20) |
-| **poofy chef hat** | 2 (0.20) |
-| **crown** | 1 (0.10) |
-| **false cleric** | 1 (0.10) |
-| **rainbow bead cap** | 1 (0.10) |
-| **sunflower cap** | 1 (0.10) |
-
-
-### Equipment (70) - ∑Total 1000/1000
-
-|Name|Total (%)|
-|--------|----------:|
-| **short sword** | 71 (7.10) |
-| **dagger** | 53 (5.30) |
-| **staff of fire** | 48 (4.80) |
-| **staff of ice** | 45 (4.50) |
-| **great sword** | 43 (4.30) |
-| **battle axe** | 37 (3.70) |
-| **staff of electricity** | 37 (3.70) |
-| **lute** | 36 (3.60) |
-| **pan flute** | 35 (3.50) |
-| **staff of water** | 33 (3.30) |
-| **lance** | 32 (3.20) |
-| **poison dagger** | 29 (2.90) |
-| **spear** | 29 (2.90) |
-| **torch** | 28 (2.80) |
-| **staff of earth** | 27 (2.70) |
-| **magic dust** | 25 (2.50) |
-| **gold dust** | 22 (2.20) |
-| **hand drum** | 22 (2.20) |
-| **staff of poison** | 22 (2.20) |
-| **healing herbs** | 21 (2.10) |
-| **bow and arrow** | 19 (1.90) |
-| **gold handle sword** | 18 (1.80) |
-| **poison potion** | 18 (1.80) |
-| **gold spear** | 16 (1.60) |
-| **green seeing stone** | 16 (1.60) |
-| **war scythe** | 15 (1.50) |
-| **revival herbs** | 14 (1.40) |
-| **giant scroll** | 11 (1.10) |
-| **key collection** | 10 (1.00) |
-| **purple seeing stone** | 10 (1.00) |
-| **void spear** | 10 (1.00) |
-| **agile sword** | 9 (0.90) |
-| **poison enchanted sword** | 9 (0.90) |
-| **red handle sword** | 9 (0.90) |
-| **antidote** | 8 (0.80) |
-| **poison powder** | 8 (0.80) |
-| **wood flute** | 8 (0.80) |
-| **sword of fortune** | 7 (0.70) |
-| **double pointed staff** | 6 (0.60) |
-| **fire sword** | 6 (0.60) |
-| **awakening herbs** | 5 (0.50) |
-| **ice spear** | 5 (0.50) |
-| **ice sword** | 5 (0.50) |
-| **ocarina** | 5 (0.50) |
-| **poison darts** | 5 (0.50) |
-| **throwing knives** | 5 (0.50) |
-| **curse protection potions** | 4 (0.40) |
-| **none** | 4 (0.40) |
-| **poison protection potions** | 4 (0.40) |
-| **staff of void** | 4 (0.40) |
-| **triangle** | 4 (0.40) |
-| **curly staff** | 3 (0.30) |
-| **fire protection potions** | 3 (0.30) |
-| **riding sword** | 3 (0.30) |
-| **staff of malice** | 3 (0.30) |
-| **staff of power** | 2 (0.20) |
-| **bag of gold** | 1 (0.10) |
-| **blade of champions** | 1 (0.10) |
-| **cake** | 1 (0.10) |
-| **fish** | 1 (0.10) |
-| **flute** | 1 (0.10) |
-| **gold axe** | 1 (0.10) |
-| **mutton** | 1 (0.10) |
-| **red seeing stone** | 1 (0.10) |
-| **rogue dark sword** | 1 (0.10) |
-| **scepter** | 1 (0.10) |
-| **smoke bombs** | 1 (0.10) |
-| **staff of devastation** | 1 (0.10) |
-| **staff of prosperity** | 1 (0.10) |
-| **staff of the black dragon** | 1 (0.10) |
-
-
-### Neck (26) - ∑Total 1000/1000
-
-|Name|Total (%)|
-|--------|----------:|
-| **coin** | 379 (37.90) |
-| **silver dogecoin** | 94 (9.40) |
-| **emerald collar** | 62 (6.20) |
-| **health potion** | 52 (5.20) |
-| **amethyst collar** | 40 (4.00) |
-| **magic potion** | 39 (3.90) |
-| **gold dogecoin** | 38 (3.80) |
-| **spiked collar** | 36 (3.60) |
-| **ruby collar** | 34 (3.40) |
-| **sapphire collar** | 32 (3.20) |
-| **dexterity potion** | 30 (3.00) |
-| **bell collar** | 28 (2.80) |
-| **vial of light** | 22 (2.20) |
-| **key** | 20 (2.00) |
-| **amethyst** | 14 (1.40) |
-| **House of wow tabard** | 11 (1.10) |
-| **emerald** | 11 (1.10) |
-| **Do Only Good Everyday tabard** | 10 (1.00) |
-| **So Scare tabard** | 10 (1.00) |
-| **420 Syndicate tabard** | 9 (0.90) |
-| **Legion of lulz tabard** | 8 (0.80) |
-| **none** | 5 (0.50) |
-| **opal** | 5 (0.50) |
-| **ruby** | 5 (0.50) |
-| **sapphire** | 5 (0.50) |
-| **master key** | 1 (0.10) |
 
 
 ### Fur (22) - ∑Total 1000/1000
@@ -330,6 +158,176 @@ Guild (5) · Class (7) · Hat (51) · Equipment (70) · Neck (26) · Fur (22) ·
 | **zombie** | 2 (0.20) |
 | **diamond** | 1 (0.10) |
 
+
+
+
+
+
+### Hat (51) - ∑Total 1000/1000
+
+|Name|Total (%)|
+|--------|----------:|
+| **blue mage** | 132 (13.20) |
+| **basic helmet** | 103 (10.30) |
+| **fortified helmet** | 89 (8.90) |
+| **purple mage** | 64 (6.40) |
+| **kettle** | 62 (6.20) |
+| **none** | 43 (4.30) |
+| **helmet and buckle** | 40 (4.00) |
+| **dark hood** | 39 (3.90) |
+| **purple hood** | 38 (3.80) |
+| **teal cloak** | 32 (3.20) |
+| **green mage** | 29 (2.90) |
+| **blue cloak** | 25 (2.50) |
+| **brown hood** | 23 (2.30) |
+| **bomb** | 19 (1.90) |
+| **cleric pointed cap** | 18 (1.80) |
+| **red mage** | 17 (1.70) |
+| **orange mage** | 16 (1.60) |
+| **pointy helmet** | 16 (1.60) |
+| **books** | 15 (1.50) |
+| **cleric blue gem** | 14 (1.40) |
+| **green hood** | 14 (1.40) |
+| **grey cloak** | 13 (1.30) |
+| **cleric green gem** | 11 (1.10) |
+| **false mage** | 9 (0.90) |
+| **apple** | 8 (0.80) |
+| **bird nest** | 8 (0.80) |
+| **faceguard helmet** | 8 (0.80) |
+| **orange cloak** | 8 (0.80) |
+| **cleric blue pointed** | 7 (0.70) |
+| **light pink cloak** | 7 (0.70) |
+| **pink cloak** | 7 (0.70) |
+| **scrolls** | 7 (0.70) |
+| **yellow mage** | 7 (0.70) |
+| **dark purple cloak** | 6 (0.60) |
+| **dogecoin cap** | 5 (0.50) |
+| **earguard helmet** | 5 (0.50) |
+| **giant health potion** | 5 (0.50) |
+| **giant magic potion** | 4 (0.40) |
+| **music cap** | 4 (0.40) |
+| **false bard** | 3 (0.30) |
+| **headdress** | 3 (0.30) |
+| **purple cloak** | 3 (0.30) |
+| **false knight** | 2 (0.20) |
+| **green cloak** | 2 (0.20) |
+| **jester blue green** | 2 (0.20) |
+| **jester red blue** | 2 (0.20) |
+| **poofy chef hat** | 2 (0.20) |
+| **crown** | 1 (0.10) |
+| **false cleric** | 1 (0.10) |
+| **rainbow bead cap** | 1 (0.10) |
+| **sunflower cap** | 1 (0.10) |
+
+
+### Neck (26) - ∑Total 1000/1000
+
+|Name|Total (%)|
+|--------|----------:|
+| **coin** | 379 (37.90) |
+| **silver dogecoin** | 94 (9.40) |
+| **emerald collar** | 62 (6.20) |
+| **health potion** | 52 (5.20) |
+| **amethyst collar** | 40 (4.00) |
+| **magic potion** | 39 (3.90) |
+| **gold dogecoin** | 38 (3.80) |
+| **spiked collar** | 36 (3.60) |
+| **ruby collar** | 34 (3.40) |
+| **sapphire collar** | 32 (3.20) |
+| **dexterity potion** | 30 (3.00) |
+| **bell collar** | 28 (2.80) |
+| **vial of light** | 22 (2.20) |
+| **key** | 20 (2.00) |
+| **amethyst** | 14 (1.40) |
+| **House of wow tabard** | 11 (1.10) |
+| **emerald** | 11 (1.10) |
+| **Do Only Good Everyday tabard** | 10 (1.00) |
+| **So Scare tabard** | 10 (1.00) |
+| **420 Syndicate tabard** | 9 (0.90) |
+| **Legion of lulz tabard** | 8 (0.80) |
+| **none** | 5 (0.50) |
+| **opal** | 5 (0.50) |
+| **ruby** | 5 (0.50) |
+| **sapphire** | 5 (0.50) |
+| **master key** | 1 (0.10) |
+
+
+
+
+### Equipment (70) - ∑Total 1000/1000
+
+|Name|Total (%)|
+|--------|----------:|
+| **short sword** | 71 (7.10) |
+| **dagger** | 53 (5.30) |
+| **staff of fire** | 48 (4.80) |
+| **staff of ice** | 45 (4.50) |
+| **great sword** | 43 (4.30) |
+| **battle axe** | 37 (3.70) |
+| **staff of electricity** | 37 (3.70) |
+| **lute** | 36 (3.60) |
+| **pan flute** | 35 (3.50) |
+| **staff of water** | 33 (3.30) |
+| **lance** | 32 (3.20) |
+| **poison dagger** | 29 (2.90) |
+| **spear** | 29 (2.90) |
+| **torch** | 28 (2.80) |
+| **staff of earth** | 27 (2.70) |
+| **magic dust** | 25 (2.50) |
+| **gold dust** | 22 (2.20) |
+| **hand drum** | 22 (2.20) |
+| **staff of poison** | 22 (2.20) |
+| **healing herbs** | 21 (2.10) |
+| **bow and arrow** | 19 (1.90) |
+| **gold handle sword** | 18 (1.80) |
+| **poison potion** | 18 (1.80) |
+| **gold spear** | 16 (1.60) |
+| **green seeing stone** | 16 (1.60) |
+| **war scythe** | 15 (1.50) |
+| **revival herbs** | 14 (1.40) |
+| **giant scroll** | 11 (1.10) |
+| **key collection** | 10 (1.00) |
+| **purple seeing stone** | 10 (1.00) |
+| **void spear** | 10 (1.00) |
+| **agile sword** | 9 (0.90) |
+| **poison enchanted sword** | 9 (0.90) |
+| **red handle sword** | 9 (0.90) |
+| **antidote** | 8 (0.80) |
+| **poison powder** | 8 (0.80) |
+| **wood flute** | 8 (0.80) |
+| **sword of fortune** | 7 (0.70) |
+| **double pointed staff** | 6 (0.60) |
+| **fire sword** | 6 (0.60) |
+| **awakening herbs** | 5 (0.50) |
+| **ice spear** | 5 (0.50) |
+| **ice sword** | 5 (0.50) |
+| **ocarina** | 5 (0.50) |
+| **poison darts** | 5 (0.50) |
+| **throwing knives** | 5 (0.50) |
+| **curse protection potions** | 4 (0.40) |
+| **none** | 4 (0.40) |
+| **poison protection potions** | 4 (0.40) |
+| **staff of void** | 4 (0.40) |
+| **triangle** | 4 (0.40) |
+| **curly staff** | 3 (0.30) |
+| **fire protection potions** | 3 (0.30) |
+| **riding sword** | 3 (0.30) |
+| **staff of malice** | 3 (0.30) |
+| **staff of power** | 2 (0.20) |
+| **bag of gold** | 1 (0.10) |
+| **blade of champions** | 1 (0.10) |
+| **cake** | 1 (0.10) |
+| **fish** | 1 (0.10) |
+| **flute** | 1 (0.10) |
+| **gold axe** | 1 (0.10) |
+| **mutton** | 1 (0.10) |
+| **red seeing stone** | 1 (0.10) |
+| **rogue dark sword** | 1 (0.10) |
+| **scepter** | 1 (0.10) |
+| **smoke bombs** | 1 (0.10) |
+| **staff of devastation** | 1 (0.10) |
+| **staff of prosperity** | 1 (0.10) |
+| **staff of the black dragon** | 1 (0.10) |
 
 
 
