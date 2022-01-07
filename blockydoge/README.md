@@ -15,6 +15,21 @@
 | **Red Fur** | 19 (19.00) |
 | **Sesame Fur** | 19 (19.00) |
 
+#### Expression (8) - ∑Total 24/100
+
+|Name|Total (%)|
+|--------|----------:|
+| **Tongue Out** | 7 (7.00) |
+| **Laughing** | 6 (6.00) |
+| **Pouty** | 2 (2.00) |
+| **Sad** | 2 (2.00) |
+| **Shocked** | 2 (2.00) |
+| **Sleepy** | 2 (2.00) |
+| **Smiley** | 2 (2.00) |
+| **Cream Fur** | 1 (1.00) |
+
+
+
 ### Accessories (1) - ∑Total 11/100
 
 |Name|Total (%)|
@@ -33,7 +48,7 @@ Attribute Counts
 | **4 Attributes** | 2 (2.00) |
 | **5 Attributes** | 1 (1.00) |
 
-Hat (9) · Expression (8) · Glasses (5) ·  Mask (3) · Collar (3)
+Hat (9) · Glasses (5) ·  Mask (3) · Collar (3)
 
 #### Hat (9) - ∑Total 50/100
 
@@ -49,19 +64,6 @@ Hat (9) · Expression (8) · Glasses (5) ·  Mask (3) · Collar (3)
 | **Pink Cap** | 5 (5.00) |
 | **White Cap** | 5 (5.00) |
 
-
-#### Expression (8) - ∑Total 24/100
-
-|Name|Total (%)|
-|--------|----------:|
-| **Tongue Out** | 7 (7.00) |
-| **Laughing** | 6 (6.00) |
-| **Pouty** | 2 (2.00) |
-| **Sad** | 2 (2.00) |
-| **Shocked** | 2 (2.00) |
-| **Sleepy** | 2 (2.00) |
-| **Smiley** | 2 (2.00) |
-| **Cream Fur** | 1 (1.00) |
 
 
 #### Glasses (5) - ∑Total 30/100
