@@ -3,8 +3,15 @@
 
 ## Popularity & Rarity
 
+### Type (2)
 
-Attribute Counts
+|Name|Total (%)|
+|--------|----------:|
+| **Male** | 146 (74.87) |
+| **Female** | 48 (24.62) |
+
+
+### Attribute Counts
 
 |Name|Total (%)|
 |--------|----------:|
@@ -17,17 +24,7 @@ Attribute Counts
 | **8 Attributes** | 10 (5.13) |
 | **9 Attributes** | 2 (1.03) |
 
-Type (2) · Accessory (63)
-
-### Type (2)
-
-|Name|Total (%)|
-|--------|----------:|
-| **Male** | 146 (74.87) |
-| **Female** | 48 (24.62) |
-
-
-### Accessory (63)
+#### Accessory (63)
 
 |Name|Total (%)|
 |--------|----------:|
