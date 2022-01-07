@@ -1,0 +1,95 @@
+type, name, count
+Attribute Count, ∑ Total, 100
+Attribute Count, 2, 38
+Attribute Count, 4, 10
+Attribute Count, 1, 23
+Attribute Count, 3, 25
+Attribute Count, 5, 3
+Attribute Count, 7, 1
+Accessory, ∑ Total, 236
+Accessory, Earring, 24
+Accessory, Mohawk, 3
+Accessory, Front Beard, 1
+Accessory, Headband, 4
+Accessory, VR, 7
+Accessory, Cowboy Hat, 3
+Accessory, Knitted Cap, 10
+Accessory, 3D Glasses, 3
+Accessory, Bandana, 7
+Accessory, Front Beard Dark, 1
+Accessory, Messy Hair, 4
+Accessory, Regular Shades, 4
+Accessory, Stringy Hair, 4
+Accessory, Cap, 6
+Accessory, Cap Forward, 3
+Accessory, Do-rag, 4
+Accessory, Eye Mask, 4
+Accessory, Vape, 4
+Accessory, Classic Shades, 4
+Accessory, Wild Hair, 4
+Accessory, Mohawk Thin, 3
+Accessory, Small Shades, 6
+Accessory, Luxurious Beard, 4
+Accessory, Police Cap, 3
+Accessory, Crazy Hair, 3
+Accessory, Frown, 3
+Accessory, Medical Mask, 3
+Accessory, Top Hat, 3
+Accessory, Peak Spike, 3
+Accessory, Shadow Beard, 2
+Accessory, Pipe, 5
+Accessory, Pilot Helmet, 1
+Accessory, Purple Lipstik, 1
+Accessory, Red Mohawk, 1
+Accessory, Purple Lipstick, 6
+Accessory, Hot Lipstick, 4
+Accessory, Mohawk Dark, 2
+Accessory, Clown Eyes Blue, 3
+Accessory, Tassle Hat, 1
+Accessory, Half Shaved, 1
+Accessory, Green Eye Shadow, 1
+Accessory, Choker, 1
+Accessory, Nerd Glasses, 4
+Accessory, Pink With Hat, 1
+Accessory, Blonde Bob, 1
+Accessory, Black Lipstick, 4
+Accessory, Dark Hair, 1
+Accessory, Welding Goggles, 1
+Accessory, Orange Side, 1
+Accessory, Wild White Hair, 1
+Accessory, Pigtails, 1
+Accessory, Blonde Short, 1
+Accessory, Spots, 1
+Accessory, Mole, 3
+Accessory, Cigarette, 10
+Accessory, Frumpy Hair, 1
+Accessory, Tiara, 1
+Accessory, Clown Eyes Green, 1
+Accessory, Wild Blonde, 1
+Accessory, Clown Hair Green, 2
+Accessory, Silver Chain, 1
+Accessory, Gold Chain, 3
+Accessory, Clown Nose, 3
+Accessory, Mustache, 2
+Accessory, Purple Hair, 2
+Accessory, Fedora, 2
+Accessory, Rosy Cheeks, 1
+Accessory, Big Beard, 2
+Accessory, Normal Beard, 3
+Accessory, Chinstrap, 1
+Accessory, Eye Patch, 3
+Accessory, Hoodie, 1
+Accessory, Muttonchops, 2
+Accessory, Handlebars, 2
+Accessory, Beanie, 1
+Accessory, Horned Rim Glasses, 1
+Accessory, Buck Teeth, 1
+Accessory, Shaved Head, 2
+Accessory, Big Shades, 1
+Accessory, Goat, 2
+Type, ∑ Total, 100
+Type, Male, 31
+Type, Zombie, 14
+Type, Alien, 9
+Type, Ape, 14
+Type, Female, 32

@@ -4,11 +4,11 @@
 ## Popularity & Rarity
 
 
-Attribute Count
+Attribute Counts
 
-|Attribute Count|Total (%)|
+|Name|Total (%)|
 |--------|----------:|
-| **8** | 1000 (100.00) |
+| **8 Attributes** | 1000 (100.00) |
 
 Guild (5) · Class (7) · Hat (51) · Equipment (70) · Neck (26) · Fur (22) · Eyes (45) · Mouth (45)
 
