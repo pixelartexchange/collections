@@ -9,10 +9,10 @@ Attribute Counts
 
 |Name|Total (%)|
 |--------|----------:|
-| **5 Attributes** | 1 (1.00) |
-| **4 Attributes** | 2 (2.00) |
-| **3 Attributes** | 23 (23.00) |
 | **2 Attributes** | 74 (74.00) |
+| **3 Attributes** | 23 (23.00) |
+| **4 Attributes** | 2 (2.00) |
+| **5 Attributes** | 1 (1.00) |
 
 Fur (5) · Hat (9) · Expression (8) · Glasses (5) · Accessories (1) · Mask (3) · Collar (3)
 
