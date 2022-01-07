@@ -15,7 +15,7 @@
 | **Red Fur** | 19 (19.00) |
 | **Sesame Fur** | 19 (19.00) |
 
-#### Expression (8) - ∑Total 24/100
+### Expression (8) - ∑Total 24/100
 
 |Name|Total (%)|
 |--------|----------:|
