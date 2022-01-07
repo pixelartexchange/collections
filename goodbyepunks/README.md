@@ -119,4 +119,4 @@ Type (5) · Accessory (80)
 
 
 
-(Source: [**goodbyepunks**](goodbyepunks.csv))
+(Source: [**goodbyepunks.csv**](goodbyepunks.csv))
