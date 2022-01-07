@@ -11,18 +11,18 @@
 | **Female** | 48 (24.62) |
 
 
-### Accessories Counts
+### Attribute Counts
 
 |Name|Total (%)|
 |--------|----------:|
-| **2 Accessories** | 4 (2.05) |
-| **3 Accessories** | 15 (7.69) |
-| **4 Accessories** | 41 (21.03) |
-| **5 Accessories** | 61 (31.28) |
-| **6 Accessories** | 46 (23.59) |
-| **7 Accessories** | 16 (8.21) |
-| **8 Accessories** | 10 (5.13) |
-| **9 Accessories** | 2 (1.03) |
+| **2 Attributes** | 4 (2.05) |
+| **3 Attributes** | 15 (7.69) |
+| **4 Attribute** | 41 (21.03) |
+| **5 Attribute** | 61 (31.28) |
+| **6 Attribute** | 46 (23.59) |
+| **7 Attribute** | 16 (8.21) |
+| **8 Attribute** | 10 (5.13) |
+| **9 Attribute** | 2 (1.03) |
 
 #### Accessory (63)
 
