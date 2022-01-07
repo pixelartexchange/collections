@@ -5,17 +5,6 @@
 ## Popularity & Rarity
 
 
-Attribute Counts
-
-|Name|Total (%)|
-|--------|----------:|
-| **2 Attributes** | 74 (74.00) |
-| **3 Attributes** | 23 (23.00) |
-| **4 Attributes** | 2 (2.00) |
-| **5 Attributes** | 1 (1.00) |
-
-Fur (5) · Hat (9) · Expression (8) · Glasses (5) · Accessories (1) · Mask (3) · Collar (3)
-
 ### Fur (5) - ∑Total 99/100
 
 |Name|Total (%)|
@@ -26,8 +15,23 @@ Fur (5) · Hat (9) · Expression (8) · Glasses (5) · Accessories (1) · Mask (
 | **Red Fur** | 19 (19.00) |
 | **Sesame Fur** | 19 (19.00) |
 
+### Accessories (1) - ∑Total 11/100
 
-### Hat (9) - ∑Total 50/100
+|Name|Total (%)|
+|--------|----------:|
+| **None** | 11 (11.00) |
+
+
+### Attribute Counts  -  Hat (9) · Expression (8) · Glasses (5) ·  Mask (3) · Collar (3)
+
+|Name|Total (%)|
+|--------|----------:|
+| **2 Attributes** | 74 (74.00) |
+| **3 Attributes** | 23 (23.00) |
+| **4 Attributes** | 2 (2.00) |
+| **5 Attributes** | 1 (1.00) |
+
+#### Hat (9) - ∑Total 50/100
 
 |Name|Total (%)|
 |--------|----------:|
@@ -42,7 +46,7 @@ Fur (5) · Hat (9) · Expression (8) · Glasses (5) · Accessories (1) · Mask (
 | **White Cap** | 5 (5.00) |
 
 
-### Expression (8) - ∑Total 24/100
+#### Expression (8) - ∑Total 24/100
 
 |Name|Total (%)|
 |--------|----------:|
@@ -56,7 +60,7 @@ Fur (5) · Hat (9) · Expression (8) · Glasses (5) · Accessories (1) · Mask (
 | **Cream Fur** | 1 (1.00) |
 
 
-### Glasses (5) - ∑Total 30/100
+#### Glasses (5) - ∑Total 30/100
 
 |Name|Total (%)|
 |--------|----------:|
@@ -67,14 +71,8 @@ Fur (5) · Hat (9) · Expression (8) · Glasses (5) · Accessories (1) · Mask (
 | **Sunglasses** | 5 (5.00) |
 
 
-### Accessories (1) - ∑Total 11/100
 
-|Name|Total (%)|
-|--------|----------:|
-| **None** | 11 (11.00) |
-
-
-### Mask (3) - ∑Total 12/100
+#### Mask (3) - ∑Total 12/100
 
 |Name|Total (%)|
 |--------|----------:|
@@ -83,7 +81,7 @@ Fur (5) · Hat (9) · Expression (8) · Glasses (5) · Accessories (1) · Mask (
 | **Hodl Mask** | 1 (1.00) |
 
 
-### Collar (3) - ∑Total 4/100
+#### Collar (3) - ∑Total 4/100
 
 |Name|Total (%)|
 |--------|----------:|
