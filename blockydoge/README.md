@@ -22,7 +22,9 @@
 | **None** | 11 (11.00) |
 
 
-### Attribute Counts  -  Hat (9) · Expression (8) · Glasses (5) ·  Mask (3) · Collar (3)
+### Attributes
+
+Attribute Counts
 
 |Name|Total (%)|
 |--------|----------:|
@@ -30,6 +32,8 @@
 | **3 Attributes** | 23 (23.00) |
 | **4 Attributes** | 2 (2.00) |
 | **5 Attributes** | 1 (1.00) |
+
+Hat (9) · Expression (8) · Glasses (5) ·  Mask (3) · Collar (3)
 
 #### Hat (9) - ∑Total 50/100
 
