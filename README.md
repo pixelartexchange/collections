@@ -42,7 +42,7 @@ For 4x, see the [Pixel Art (4x) Collection Gallery »](https://pixelartexchange.
 
 ## Punks, The Mafiosi Edition
 
-![](mafiapunks-24x24.png)
+![](mafiapunks/mafiapunks-24x24.png)
 
 
 
