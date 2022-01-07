@@ -7,12 +7,12 @@ Attribute Counts
 
 |Name|Total (%)|
 |--------|----------:|
-| **7 Attributes**  | 1 (1.00) |
-| **5 Attributes**  | 3 (3.00) |
-| **4 Attributes**  | 10 (10.00) |
-| **3 Attributes**  | 25 (25.00) |
-| **2 Attributes**  | 38 (38.00) |
 | **1 Attributes**  | 23 (23.00) |
+| **2 Attributes**  | 38 (38.00) |
+| **3 Attributes**  | 25 (25.00) |
+| **4 Attributes**  | 10 (10.00) |
+| **5 Attributes**  | 3 (3.00) |
+| **7 Attributes**  | 1 (1.00) |
 
 
 Type (5) · Accessory (80)
