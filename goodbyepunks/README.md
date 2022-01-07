@@ -14,16 +14,16 @@
 | **Alien** | 9 (9.00) |
 
 
-### Attribute Counts
+### Accessories Counts
 
 |Name|Total (%)|
 |--------|----------:|
-| **1 Attributes**  | 23 (23.00) |
-| **2 Attributes**  | 38 (38.00) |
-| **3 Attributes**  | 25 (25.00) |
-| **4 Attributes**  | 10 (10.00) |
-| **5 Attributes**  | 3 (3.00) |
-| **7 Attributes**  | 1 (1.00) |
+| **1 Accessories**  | 23 (23.00) |
+| **2 Accessories**  | 38 (38.00) |
+| **3 Accessories**  | 25 (25.00) |
+| **4 Accessories**  | 10 (10.00) |
+| **5 Accessories**  | 3 (3.00) |
+| **7 Accessories**  | 1 (1.00) |
 
 #### Accessory (80)
 
