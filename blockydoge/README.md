@@ -99,6 +99,6 @@ Hat (9) · Glasses (5) ·  Mask (3) · Collar (3)
 
 
 
-(Source: [**blockydoge.csv**](blockydoge.csv))
+(Source: [**blockydoge.csv**](https://github.com/pixelartexchange/collections.meta/blob/master/blockydoge.csv))
 
 

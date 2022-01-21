@@ -95,5 +95,5 @@
 
 
 
-(Source: [**mafiapunks.csv**](mafiapunks.csv))
+(Source: [**mafiapunks.csv**](https://github.com/pixelartexchange/collections.meta/blob/master/mafiapunks.csv))
 

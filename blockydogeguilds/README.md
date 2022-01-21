@@ -331,4 +331,4 @@
 
 
 
-(Source: [**blockydogeguilds.csv**](blockydogeguilds.csv))
+(Source: [**blockydogeguilds.csv**](https://github.com/pixelartexchange/collections.meta/blob/master/blockydogeguilds.csv))

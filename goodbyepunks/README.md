@@ -114,4 +114,4 @@
 
 
 
-(Source: [**goodbyepunks.csv**](goodbyepunks.csv))
+(Source: [**goodbyepunks.csv**](https://github.com/pixelartexchange/collections.meta/blob/master/goodbyepunks.csv))
